@@ -1,0 +1,18 @@
+C:\Users\Joel\Documents\Visual Studio 2010\Projects\MODit!\MODit!\bin\Release\MODit!.exe.config
+C:\Users\Joel\Documents\Visual Studio 2010\Projects\MODit!\MODit!\obj\x86\Release\Interop.Shell32.dll
+C:\Users\Joel\Documents\Visual Studio 2010\Projects\MODit!\MODit!\obj\x86\Release\MODit!.csproj.ResolveComReference.cache
+C:\Users\Joel\Documents\Visual Studio 2010\Projects\MODit!\MODit!\bin\Release\MODit!.exe
+C:\Users\Joel\Documents\Visual Studio 2010\Projects\MODit!\MODit!\bin\Release\MODit!.pdb
+C:\Users\Joel\Documents\Visual Studio 2010\Projects\MODit!\MODit!\obj\x86\Release\MODit!.exe
+C:\Users\Joel\Documents\Visual Studio 2010\Projects\MODit!\MODit!\obj\x86\Release\MODit!.pdb
+C:\Users\Joel\Documents\Visual Studio 2010\Projects\MODit!\MODit!\bin\Release\Interop.Shell32.dll
+E:\MODit!\MODit!\bin\Release\MODit!.exe.config
+E:\MODit!\MODit!\obj\x86\Release\Interop.Shell32.dll
+E:\MODit!\MODit!\obj\x86\Release\MODit!.csproj.ResolveComReference.cache
+E:\MODit!\MODit!\obj\x86\Release\MODit!.exe
+E:\MODit!\MODit!\obj\x86\Release\MODit!.pdb
+F:\MODit!\MODit!\bin\Release\MODit!.exe.config
+F:\MODit!\MODit!\obj\x86\Release\Interop.Shell32.dll
+F:\MODit!\MODit!\obj\x86\Release\MODit!.csproj.ResolveComReference.cache
+F:\MODit!\MODit!\obj\x86\Release\MODit!.exe
+F:\MODit!\MODit!\obj\x86\Release\MODit!.pdb

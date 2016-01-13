@@ -1,0 +1,8 @@
+c:\users\joel\documents\visual studio 2010\Projects\MODit!\MODit!\bin\Debug\MODit!.exe
+c:\users\joel\documents\visual studio 2010\Projects\MODit!\MODit!\bin\Debug\MODit!.pdb
+c:\users\joel\documents\visual studio 2010\Projects\MODit!\MODit!\obj\x86\Debug\MODit!.exe
+c:\users\joel\documents\visual studio 2010\Projects\MODit!\MODit!\obj\x86\Debug\MODit!.pdb
+C:\Users\Joel\Documents\Visual Studio 2010\Projects\MODit!\MODit!\bin\Debug\MODit!.exe.config
+C:\Users\Joel\Documents\Visual Studio 2010\Projects\MODit!\MODit!\obj\x86\Debug\Interop.Shell32.dll
+C:\Users\Joel\Documents\Visual Studio 2010\Projects\MODit!\MODit!\obj\x86\Debug\MODit!.csproj.ResolveComReference.cache
+C:\Users\Joel\Documents\Visual Studio 2010\Projects\MODit!\MODit!\bin\Debug\Interop.Shell32.dll
