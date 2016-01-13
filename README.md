@@ -1,4 +1,4 @@
-# GMODit
+# MODit
 Console-based Minecraft downloader using C#.
 
 Requires Visual Studio 2010 or newer.
